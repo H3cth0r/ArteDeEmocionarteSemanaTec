@@ -5,6 +5,6 @@ This is the final evidence of my learning on Semana-Tec course called *“El Art
 I took the ideas of Rafael Lozano, of making art where the spectator may have an interaction with the piece of art. This code may be run on the web by any user and input the commands. I also decided to integrate my knowledge into my project, by applying my coding abilities. What this project does is analyze each pixel, reduce the image quality and apply a character with a specific color.
 
 
-[![Alt text](https://img.youtube.com/vi/3RFAX3CbSGA/0.jpg)](https://www.youtube.com/watch?v=3RFAX3CbSGA)
+[![Alt text](https://github.com/H3cth0r/ArteDeEmocionarteSemanaTec/blob/main/image.png)](https://www.youtube.com/watch?v=3RFAX3CbSGA)
 
 </div>
