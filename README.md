@@ -9,7 +9,7 @@ Esta semana me ha ayudado a comprender que el arte hoy en día ni se limita a cr
 This is the final evidence of my learning on Semana-Tec course called <strong>“El Arte de Emocionarte”</strong> (The Art of getting excited ). For this final project, I was required to create any type of art expression and to portray it in a one minute video.
 
 I took the ideas of Rafael Lozano, of making art where the spectator may have an interaction with the piece of art. This code may be run on the web by any user and input the commands. I also decided to integrate my knowledge into my project, by applying my coding abilities. What this project does is analyze each pixel, reduce the image quality and apply a character with a specific color.
-
+ <br>
 **Repl link:** https://replit.com/@HctorMiranda/what-is-art#main.py <br>
 **GitHub link:** https://github.com/H3cth0r/ArteDeEmocionarteSemanaTec
 </div>
