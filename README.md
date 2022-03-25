@@ -5,6 +5,9 @@ This is the final evidence of my learning on Semana-Tec course called *“El Art
 I took the ideas of Rafael Lozano, of making art where the spectator may have an interaction with the piece of art. This code may be run on the web by any user and input the commands. I also decided to integrate my knowledge into my project, by applying my coding abilities. What this project does is analyze each pixel, reduce the image quality and apply a character with a specific color.
 
 
-https://www.youtube.com/watch?v=3RFAX3CbSGA
+
+
+
+https://user-images.githubusercontent.com/43997408/160163630-78d1b9e0-14fd-431e-9118-790fde0dbeea.mp4
 
 </div>
